@@ -1,0 +1,59 @@
+body{
+  font-family: "Century Gothic";
+  font-size: 13px;
+}
+#main{
+  margin: auto;
+}
+#main, .header, h2, .content, .footer, .more{
+  padding: 5px;
+  height: auto;
+  max-width: 800px;
+}
+h1, h2{
+  text-align: center;
+}
+.header{
+}
+.best{
+  border-radius: 50%;
+  float: left;
+  margin: 0 auto;
+}
+a{
+  target-name: new;
+  target-new: tab;
+}
+.flashy{
+  color: red;
+  font-style: italic;
+  text-decoration: none;
+  padding: 10px;
+}
+button{
+  float: right;
+  font-family: "Times New Roman", sans-serif;
+  font-size: 13px;
+  font-style: italic;
+  color: red;
+  margin: 5px;
+  padding: 5px;
+  background-color: #d9d9d9;
+  border: none;
+;
+  border-radius: 6px;
+}
+.content{
+  display: inline-block;
+  margin-bottom: 10px;
+  background-color: #f2f2f2;
+}
+.more{
+  font-size: 14px;
+  text-align: center;
+  background-color: #f2f2f2;
+}
+.footer{
+  clear: both;
+  text-align: center;
+}
