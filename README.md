@@ -26,4 +26,4 @@ _NB:_
 Information contained in this webpage is open source. You are allowed to copy the information carefully without alteration of any kind. However, suggestion, comments and improvements are welcome and highly regarded.
 
 
-  #### ENJOY!!!
+  #### ENJOY and SHARE!!!
